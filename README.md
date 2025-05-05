@@ -10,7 +10,7 @@ This project uses a Support Vector Machine (SVM) with linear and RBF kernels to 
 - Data preprocessing with scaling
 - SVM classification using both linear and RBF kernels
 - Visualization of 2D decision boundaries
-- Hyperparameter tuning using GridSearchCV
+- Tune hyperparameters like C and gamma
 - Model evaluation with cross-validation
 
 ## Files
